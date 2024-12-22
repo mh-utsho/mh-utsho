@@ -1,5 +1,7 @@
 <h2 align="left">Hi , I'm Maharub Hossain Utsho</h2>
 
+As a 2nd year CSE student. I have developed a strong passion for problem-solving and algorithmic thinking. My journey in competitive programming has led me to solve over 500 problems across various online judges, enhancing my expertise in data structures, algorithms, and optimization techniques.
+
 ###
 
 <div align="center">
