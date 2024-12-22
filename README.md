@@ -53,6 +53,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mh-utsho/mh-utsho/output/snake.svg" alt="Snake animation" />
 
 ###
