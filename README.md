@@ -1,24 +1,8 @@
-## Hi there 👋
+# Codeforces Activity
 
-<!--
-**mh-utsho/mh-utsho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Codeforces Stats
-
-[![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/user/mh.utsho)](https://codeforces.com/profile/mh.utsho)
+![Codeforces Activity Bar](https://cfviz.netlify.app/api/activity?username=mh.utsho)
 
 ## About Me
-I am a competitive programmer and a CSE undergraduate student, passionate about solving challenging problems. Check out my progress and achievements on Codeforces!
+I am a competitive programmer actively solving problems on Codeforces. The activity graph above shows my daily submission streak!
 
 [Visit my Codeforces profile](https://codeforces.com/profile/mh.utsho)
