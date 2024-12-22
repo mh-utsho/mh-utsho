@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Codeforces Stats
+
+[![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/user/mh.utsho)](https://codeforces.com/profile/mh.utsho)
+
+## About Me
+I am a competitive programmer and a CSE undergraduate student, passionate about solving challenging problems. Check out my progress and achievements on Codeforces!
+
+[Visit my Codeforces profile](https://codeforces.com/profile/mh.utsho)
