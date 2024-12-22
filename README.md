@@ -37,7 +37,7 @@ As a 2nd year CSE student. I have developed a strong passion for problem-solving
   <a href="https://www.instagram.com/mh.utsho/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="utshoutsho76@gmail.com" target="_blank">
+  <a href="mailto:utshoutsho76@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/maharub-hossain-utsho/" target="_blank">
